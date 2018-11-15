@@ -1,4 +1,8 @@
 /target/
 /.settings/
 /src/
+<<<<<<< HEAD
 /test/
+=======
+/test/
+>>>>>>> branch 'master' of https://github.com/Hmizawi/flinkTest.git
