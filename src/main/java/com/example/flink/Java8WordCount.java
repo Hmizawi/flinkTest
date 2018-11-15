@@ -18,7 +18,8 @@ public class Java8WordCount {
             " in Java and Scala.[1][2] It aims to bridge the gap between MapReduce-like systems and shared-nothing",
             "parallel database systems. Therefore, Flink executes arbitrary dataflow programs in a data-parallel and",
             "pipelined manner.[3] Flink's pipelined runtime system enables the execution of bulk/batch and stream",
-            "processing programs.[4][5] Furthermore, Flink's runtime supports the execution of iterative algorithms natively.[6]"
+            "processing programs.[4][5] Furthermore, Flink's runtime supports the execution of iterative algorithms natively.[6]",
+            "test hamza test hamza test hamza"
         );
 
         lines.flatMap((line, out) -> {
